@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OE.Prog2.Jatek.Jatekter/1.0.0": {
+        "runtime": {
+          "OE.Prog2.Jatek.Jatekter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OE.Prog2.Jatek.Jatekter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

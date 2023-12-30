@@ -1,0 +1,14 @@
+C:\Users\Balázs\source\repos\OE.Prog2.Jatek.Jatekter\OE.Prog2.Jatek.Jatekter\bin\Debug\net6.0\OE.Prog2.Jatek.Jatekter.exe
+C:\Users\Balázs\source\repos\OE.Prog2.Jatek.Jatekter\OE.Prog2.Jatek.Jatekter\bin\Debug\net6.0\OE.Prog2.Jatek.Jatekter.deps.json
+C:\Users\Balázs\source\repos\OE.Prog2.Jatek.Jatekter\OE.Prog2.Jatek.Jatekter\bin\Debug\net6.0\OE.Prog2.Jatek.Jatekter.runtimeconfig.json
+C:\Users\Balázs\source\repos\OE.Prog2.Jatek.Jatekter\OE.Prog2.Jatek.Jatekter\bin\Debug\net6.0\OE.Prog2.Jatek.Jatekter.dll
+C:\Users\Balázs\source\repos\OE.Prog2.Jatek.Jatekter\OE.Prog2.Jatek.Jatekter\bin\Debug\net6.0\OE.Prog2.Jatek.Jatekter.pdb
+C:\Users\Balázs\source\repos\OE.Prog2.Jatek.Jatekter\OE.Prog2.Jatek.Jatekter\obj\Debug\net6.0\OE.Prog2.Jatek.Jatekter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Balázs\source\repos\OE.Prog2.Jatek.Jatekter\OE.Prog2.Jatek.Jatekter\obj\Debug\net6.0\OE.Prog2.Jatek.Jatekter.AssemblyInfoInputs.cache
+C:\Users\Balázs\source\repos\OE.Prog2.Jatek.Jatekter\OE.Prog2.Jatek.Jatekter\obj\Debug\net6.0\OE.Prog2.Jatek.Jatekter.AssemblyInfo.cs
+C:\Users\Balázs\source\repos\OE.Prog2.Jatek.Jatekter\OE.Prog2.Jatek.Jatekter\obj\Debug\net6.0\OE.Prog2.Jatek.Jatekter.csproj.CoreCompileInputs.cache
+C:\Users\Balázs\source\repos\OE.Prog2.Jatek.Jatekter\OE.Prog2.Jatek.Jatekter\obj\Debug\net6.0\OE.Prog2.Jatek.Jatekter.dll
+C:\Users\Balázs\source\repos\OE.Prog2.Jatek.Jatekter\OE.Prog2.Jatek.Jatekter\obj\Debug\net6.0\refint\OE.Prog2.Jatek.Jatekter.dll
+C:\Users\Balázs\source\repos\OE.Prog2.Jatek.Jatekter\OE.Prog2.Jatek.Jatekter\obj\Debug\net6.0\OE.Prog2.Jatek.Jatekter.pdb
+C:\Users\Balázs\source\repos\OE.Prog2.Jatek.Jatekter\OE.Prog2.Jatek.Jatekter\obj\Debug\net6.0\OE.Prog2.Jatek.Jatekter.genruntimeconfig.cache
+C:\Users\Balázs\source\repos\OE.Prog2.Jatek.Jatekter\OE.Prog2.Jatek.Jatekter\obj\Debug\net6.0\ref\OE.Prog2.Jatek.Jatekter.dll
